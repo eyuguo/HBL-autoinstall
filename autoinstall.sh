@@ -79,6 +79,7 @@ then
 fi
 
 sudo apt install pip -y
+sudo apt-get install python-pip -y
 sudo pip install --upgrade pip -y
 sudo pip install dmr-utils -y
 sudo apt install curl -y
